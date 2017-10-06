@@ -110,7 +110,7 @@ For how many years do you work in the field of software development?
 - 3-5
 - 6-10
 - 11-20
-- >20
+- &gt;20
 
 In projects you worked on, which of the following were involved?
 - Web Services based on SOAP / WSDL
@@ -126,7 +126,7 @@ How many employees does the company you work at have?
 - 101-1000
 - 1001-5000
 - 5001-10000
-- >10000
+- &gt;10000
 - I do not work at a company
 
 What is the sector of your company?
@@ -146,5 +146,5 @@ What is the average team size at your company or for the projects you are involv
 - 6-10
 - 11-20
 - 21-50
-- >50
+- &gt;50
 
